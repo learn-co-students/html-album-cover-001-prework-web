@@ -110,3 +110,15 @@ img {
   margin-left: 163px;
   padding-top: 25px;
 }
+#title_box_happy {
+  font-size: 3em;
+  margin-top: 11px;
+  margin-bottom: 12px
+}
+#footer img {
+  margin-top: 10px;
+}
+#hpp2{
+  font-size: 8em;
+  text-transform: uppercase;
+}
