@@ -72,7 +72,7 @@ span {
 
 img {
   display: inline-block;
-  margin: 0 40px;
+  margin: -100 40px;
 }
 
 .wrapper {
@@ -100,7 +100,7 @@ img {
 #back {
   background: rgba(247,211,27,1);
   text-align: center;
-  padding: 130px 35px 35px;
+  padding: 160px 35px 35px;
 }
 
 #title-box {
