@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4.1em; /* 5.1em was too big. Text broke out of the container */
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
@@ -72,7 +72,7 @@ span {
 
 img {
   display: inline-block;
-  margin: 0 40px;
+  margin: 0 20px; /* 40px pushed the text following image to next line */
 }
 
 .wrapper {
@@ -95,7 +95,7 @@ img {
   background: url("https://s3.amazonaws.com/learn-verified/cover.jpg");
   background-size: 100%;
   text-align: center;
-} 
+}
 
 #back {
   background: rgba(247,211,27,1);
